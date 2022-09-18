@@ -19,5 +19,6 @@ Projeto construido no evento Next level Week da Rocketseat.
 --> [🔗 LinkedIn](https://www.linkedin.com/in/beatrizgt/)
 
 ## Aprendizado
+O objetivo do projeto foi construir um simples agregador de links seguindo a temática de e-sports;
 A construção deste projeto reforçou alguns conceitos importantes de HTML e também sugeriu algumas formas de organizar a estrutura do site;
 Em CSS pude relembrar alguns pontos e aprender outros como  responsividade, criar alguns efeitos e animações.
